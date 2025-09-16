@@ -7,7 +7,7 @@ pub:            "Eurepean Conference on Computer Vision (ECCV)"
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Poster</span>'
 pub_date:       "2024"
-semantic_scholar_id: zQ0P3JAAAAAJ:u-x6o8ySG0sC  # use this to retrieve citation count
+semantic_scholar_id: f2889f68d454bf8daf0b5a8b795581734290372d  # use this to retrieve citation count
 abstract: >-
   The first part-level foundation model for locating and identifying both objects and parts in images through a hierarchical framework.
 cover:          assets/images/covers/PartGLEE.png
