@@ -36,11 +36,17 @@ education:
   position: >- 
     School of Computing and Data Science <br/>
     Ph.D. Student
-  date: Sept. 2025 - present
+  date: Sept. 2025 - Present
 - name: Huazhong University of Science and Technology
   logo: assets/images/badges/HUST_Logo.png
   position: B.S. in Electronic Information and Communications
   date: Sept. 2021 - Jul. 2025
+
+experience:
+- name: Tiktok
+  logo: assets/images/badges/Tiktok_Logo.png
+  position: Research Intern
+  date: Nov. 2024 - Present
 
 awards:
 - name: National Scholarship
