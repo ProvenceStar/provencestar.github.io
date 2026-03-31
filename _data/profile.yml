@@ -43,6 +43,10 @@ education:
   date: Sept. 2021 - Jul. 2025
 
 experience:
+- name: Tencent Hunyuan
+  logo: assets/images/badges/hunyuan_logo.png
+  position: Research Intern
+  date: Feb. 2025 - Present
 - name: Tiktok
   logo: assets/images/badges/Tiktok_Logo.png
   position: Research Intern
